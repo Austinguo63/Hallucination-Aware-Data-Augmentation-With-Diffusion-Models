@@ -4,6 +4,7 @@ Auhor: Zhenyuan Dong, Hongyu Guo, Yuanchen Wang, Kehan Chen
 Date: 2024-Nov
 Acknowledgement: 
 This work were tested on Da-Fusion Paper, contain ton of original code from Da-Fusion. Findout more: https://github.com/brandontrabucco/da-fusion/
+
 This work contain partial code that involving help from ChatGPT, as well as the debug phase involving the AI tool. Sould far within the limit of 25%. 
 Design of the pipeline are original based on discussion and research by team.
 
