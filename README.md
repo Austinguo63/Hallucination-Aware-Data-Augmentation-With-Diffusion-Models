@@ -1,6 +1,7 @@
 # Hallucination-Aware-Data-Augmentation-With-Diffusion-Models
 
 Auhor: Zhenyuan Dong, Hongyu Guo, Yuanchen Wang, Kehan Chen
+
 Date: 2024-Nov
 
 Acknowledgement: 
